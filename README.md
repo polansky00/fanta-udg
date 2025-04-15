@@ -1,2 +1,2 @@
-# Fanta UDG v2
-Con login e routing admin/utente.
+# Fanta UDG v2.1 – Admin completo
+Login, classifica, gestione utenti e creazione eventi
