@@ -1,2 +1,2 @@
-# Fanta UDG
-Gioco gestionale per Ufficiali di Gara del Taekwondo.
+# Fanta UDG v2
+Con login e routing admin/utente.
