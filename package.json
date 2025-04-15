@@ -1,6 +1,6 @@
 {
-  "name": "fanta-udg",
-  "version": "2.2.0",
+  "name": "fanta-udg-temp",
+  "version": "3.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",

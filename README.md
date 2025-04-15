@@ -1,1 +1,1 @@
-# Fanta UDG v2.2 – Admin con elimina eventi e utenti
+# Fanta UDG – Versione temporanea con login/registrazione base
