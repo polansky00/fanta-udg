@@ -1,2 +1,1 @@
-# Fanta UDG v2.1 – Admin completo
-Login, classifica, gestione utenti e creazione eventi
+# Fanta UDG v2.2 – Admin con elimina eventi e utenti
