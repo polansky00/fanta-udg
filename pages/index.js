@@ -1,10 +1,12 @@
-import { useEffect } from "react";
-import { useRouter } from "next/router";
+import Link from "next/link";
 
 export default function Home() {
-  const router = useRouter();
-  useEffect(() => {
-    router.push("/login");
-  }, []);
-  return null;
+  return (
+    <div style={{ padding: 40, fontFamily: "Arial" }}>
+      <h1>Fanta UDG con MongoDB</h1>
+      <p>
+        Vai a <Link href="/api/test">/api/test</Link> per vedere eventi dal DB
+      </p>
+    </div>
+  );
 }
